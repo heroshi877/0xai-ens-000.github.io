@@ -8,7 +8,7 @@ import mq from 'mediaQuery'
 
 import SearchDefault from '../components/SearchName/Search'
 import NoAccountsDefault from '../components/NoAccounts/NoAccountsModal'
-import bg from '../assets/heroBG.jpg'
+
 import TextBubbleDefault from '../components/Icons/TextBubble'
 import QuestionMarkDefault from '../components/Icons/QuestionMark'
 import HowToUseDefault from '../components/HowToUse/HowToUse'
@@ -127,7 +127,7 @@ const HowToUse = styled(HowToUseDefault)`
 `
 
 const Hero = styled('section')`
-  background: url(${bg});
+  background: darkblue;
   background-size: cover;
   padding: 60px 20px 20px;
   position: relative;
