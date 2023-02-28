@@ -379,12 +379,12 @@
   },
   "banners": {
     "undelegatedTokens": {
-      "title": "Your ENS Tokens are undelegated",
-      "description": "Participate more actively in ENS governance by delegating your voting rights to a community member"
+      "title": "Join 0xxAI DAO (0xxAI Holders)",
+      "description": "0xxAI holders will be elegible for the DAO, as well as having the access to early SAFU contracts (in Tiers), visit our website for details"
     },
     "constitution": {
-      "title": "ENS constitution book now available",
-      "description": "A printed copy of the ENS constitution and its signers is now available in hardcover and ultra-limited edition of 50"
+      "title": "Join 0xxAI DAO (0xxAI Holders)",
+      "description": "0xxAI holders will be elegible for the DAO, as well as having the access to early SAFU contracts (in Tiers), visit our website for details"
     }
   }
 }
