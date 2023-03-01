@@ -73,7 +73,7 @@ export const MainPageBannerContainer = styled(`div`)`
   margin-right: auto;
   left: 0;
   right: 0;
-  background: #ddddd;
+  background: white;
   border-radius: 100px;
   max-width: 90%;
   display: flex;
