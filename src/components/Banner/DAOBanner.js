@@ -12,8 +12,8 @@ const SHOULD_DELEGATE_QUERY = gql`
 `
 
 const LogoSmall = styled.img`
-  width: 48px;
-  height: 48px;
+  width: 88px;
+  height: 88px;
   padding: 10px;
   border-radius: 50%;
   margin: auto;
