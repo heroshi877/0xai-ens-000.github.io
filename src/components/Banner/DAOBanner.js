@@ -26,11 +26,7 @@ const LogoSmall = styled.img`
     #a099ff 148.85%
   );
 
-  ${({ $daoGradient }) =>
-    $daoGradient &&
-    `
-    background: linear-gradient(323.31deg, #DE82FF -15.56%, #7F6AFF 108.43%);
-  `}
+
 `
 
 
