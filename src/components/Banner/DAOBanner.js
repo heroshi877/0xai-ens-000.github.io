@@ -90,7 +90,7 @@ export const NonMainPageBannerContainer = styled(`div`)`
   background: #ffffff;
   border-radius: 14px;
   display: grid;
-  padding: 15px 0px;
+  padding: 0px 0px;
   a {
     display: grid;
     grid-template-columns: 73px 1fr 50px;
