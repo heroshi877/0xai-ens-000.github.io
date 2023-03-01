@@ -132,7 +132,7 @@ export function DAOBannerContent() {
           : 'https://0xxai.xyz/'
       }
     >
-      <LogoSmall $daoGradient={!shouldDelegate} src={ENSIcon} alt="ENS logo" />
+      
       <BannerContentWrapper>
         <BannerTitle>
           {shouldDelegate
