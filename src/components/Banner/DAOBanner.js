@@ -73,13 +73,14 @@ export const MainPageBannerContainer = styled(`div`)`
   margin-right: auto;
   left: 0;
   right: 0;
-  background: #ffffff;
-  border-radius: 14px;
+  background: #ddddd;
+  border-radius: 100px;
   max-width: 90%;
   display: flex;
   align-items: center;
   justify-content: flex-start;
   padding: 15px 0;
+  
   a {
     flex-grow: 1;
     display: grid;
