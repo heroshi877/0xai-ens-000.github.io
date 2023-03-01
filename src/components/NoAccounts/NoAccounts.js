@@ -14,12 +14,13 @@ const NoAccountsContainer = styled('div')`
   border-right: ${({ active, colour }) =>
     `1px solid ${active ? '#fff' : colour}`};
   border-radius: ${({ active }) => (active ? '6px 6px 0 0' : '6px')};
-  background: ${({ active }) => (active ? 'white' : 'transparent')};
+  background: #000000;
+  border-radius: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
-  width: ${({ active }) => (active ? '150px' : '150px')};
+  width: ${({ active }) => (active ? '130px' : '130px')};
   transition: 0.2s;
 
   span {
