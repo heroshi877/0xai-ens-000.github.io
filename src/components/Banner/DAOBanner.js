@@ -3,7 +3,7 @@ import styled from '@emotion/styled/macro'
 import mq from 'mediaQuery'
 import { useTranslation } from 'react-i18next'
 import Arrow from './images/Arrow.svg'
-import ENSIcon from './images/ENSIcon.svg'
+import ENSIcon from './images/ENSIcon.png'
 
 const SHOULD_DELEGATE_QUERY = gql`
   query shouldDelegateQuery @client {
