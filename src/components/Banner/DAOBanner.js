@@ -11,27 +11,7 @@ const SHOULD_DELEGATE_QUERY = gql`
   }
 `
 
-const LogoSmall = styled.img`
-  width: 48px;
-  height: 48px;
-  padding: 10px;
-  border-radius: 50%;
-  margin: auto;
-  display: block;
-  box-shadow: 0px 4px 26px rgba(0, 0, 0, 0.06);
-  background: linear-gradient(
-    330.4deg,
-    #44bcf0 4.54%,
-    #7298f8 59.2%,
-    #a099ff 148.85%
-  );
 
-  ${({ $daoGradient }) =>
-    $daoGradient &&
-    `
-    background: linear-gradient(323.31deg, #DE82FF -15.56%, #7F6AFF 108.43%);
-  `}
-`
 
 const Link = styled(`a`)`
   display: block;
