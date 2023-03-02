@@ -52,7 +52,7 @@ const Header = styled('header')`
   height: 50px;
   ${mq.medium`
     box-shadow: 0 8px 24px 0 rgba(230, 240, 247, 0.8);
-    height: auto;
+    height: 60px;
   `}
 `
 
