@@ -19,8 +19,9 @@ const LogoContainer = styled(Link)`
   justify-content: flex-start;
   padding-left: 20px;
   align-items: center;
+  background: black;
   width: auto;
-  background-color: black;
+  
 
   ${mq.medium`
     width: 200px;
