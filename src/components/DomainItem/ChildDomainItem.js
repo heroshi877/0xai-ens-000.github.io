@@ -76,7 +76,7 @@ const DomainLink = styled(Link)`
       color: #DC2E2E;
     }
     &:hover h3 {
-      color: #2C46A6;
+      color: #f3ba2f;
     }
   `}
 
@@ -111,7 +111,7 @@ const WarningContainer = styled.div`
   font-weight: 100;
 
   & a:hover {
-    color: #2c46a6;
+    color: #f3ba2f;
   }
 `
 
