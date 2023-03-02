@@ -52,8 +52,8 @@ const SearchForm = styled('form')`
   }
 
   button {
-    ${p => (p && p.hasSearch ? 'background: #1a1a1a;' : 'background: #4a4a4a;')}
-    color: white;
+    ${p => (p && p.hasSearch ? 'background: #9f7500;' : 'background: #fdbc04;')}
+    color: black;
     font-size: 22px;
     font-family: Overpass;
     padding: 20px 0;
