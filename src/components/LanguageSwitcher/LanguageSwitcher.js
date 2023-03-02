@@ -29,6 +29,7 @@ const ActiveLanguage = styled('div')`
   height: 100%;
   padding: 0 20px;
   align-items: center;
+  background: black;
   span {
     margin-right: 10px;
   }
