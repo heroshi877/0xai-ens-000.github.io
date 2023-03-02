@@ -46,7 +46,7 @@ const Name = styled('span')`
 `
 
 const NetworkStatus = styled('div')`
-  color: #fdbc0;
+  color: #fdbc04;
   font-weight: 200;
   text-transform: capitalize;
   display: none;
