@@ -65,8 +65,8 @@ const DomainContainer = styled(Link)`
   background: ${({ percentDone }) =>
     percentDone
       ? `
-  linear-gradient(to right, rgba(128, 255, 128, 0.1) 0%, rgba(82,229,255, 0.1) ${percentDone}%,#ffffff ${percentDone}%)`
-      : 'white'};
+  linear-gradient(to right, rgba(128, 255, 128, 0.1) 0%, rgba(82,229,255, 0.1) ${percentDone}%,#fdbc04 ${percentDone}%)`
+      : '#fdbc04'};
   height: 65px;
   display: grid;
   height: auto;
