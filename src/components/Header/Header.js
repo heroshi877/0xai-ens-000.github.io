@@ -82,7 +82,7 @@ const Logo = styled(DefaultLogo)`
     &:before {
       background: #d3d3d3;
       height: 32px;
-      margin-top: 30px;
+      margin-top: 15px;
       content: '';
       width: 1px;
       right: 35px;
