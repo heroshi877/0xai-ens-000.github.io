@@ -57,7 +57,7 @@ const SearchForm = styled('form')`
     font-size: 22px;
     font-family: Overpass;
     padding: 20px 0;
-    height: 90px;
+    height: 60px;
     width: 162px;
     border: none;
     display: none;
