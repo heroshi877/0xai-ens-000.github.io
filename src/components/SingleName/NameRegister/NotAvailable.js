@@ -4,7 +4,7 @@ import styled from '@emotion/styled/macro'
 
 const NotAvailableContainer = styled('div')`
   padding: 30px 40px;
-  background: #5a5a5a;
+  background: #323232;
 `
 
 const Message = styled('div')`
