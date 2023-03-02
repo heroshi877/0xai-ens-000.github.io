@@ -8,6 +8,7 @@ import DefaultRotatingSmallCaret from '../Icons/RotatingSmallCaret'
 const SetupNameContainer = styled('div')`
   background: #f0f6fa;
   padding: 20px 40px;
+  border-radius: 100px;
   margin-bottom: 40px;
 `
 
