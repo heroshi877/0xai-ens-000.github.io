@@ -9,7 +9,7 @@ import LogoTyped from '../assets/TypeLogo'
 const IconLogo = styled('img')`
   width: 30px;
   ${mq.medium`
-    width: 34px
+    width: 88px
   `}
 `
 
