@@ -114,7 +114,7 @@ const Announcement = styled('div')`
   }
   p {
     text-align: center;
-    color: white;
+    color: #fdbc04;
   }
   a {
     color: white;
