@@ -86,10 +86,10 @@ const Button = styled('input')`
   margin-right: 5%;
   margin-left: 5%;
   :hover {
-    background: #2c46a6;
+    background: #f3ba2f;
   }
   :focus {
-    border-color: #2c46a6;
+    border-color: #f3ba2f;
   }
 `
 
