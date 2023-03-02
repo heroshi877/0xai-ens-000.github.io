@@ -121,7 +121,7 @@ const DomainName = styled('h2')`
 const LabelContainer = styled('div')`
   margin-right: 20px;
   font-size: 16px;
-  color: #ccd4da;
+  color: black;
   display: none;
   align-items: center;
 `
