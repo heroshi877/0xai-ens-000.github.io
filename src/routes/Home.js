@@ -47,7 +47,7 @@ const Name = styled('span')`
 `
 
 const NetworkStatus = styled('div')`
-  color: white;
+  color: #fdbc04;
   font-weight: 200;
   text-transform: capitalize;
   display: none;
@@ -80,7 +80,7 @@ const Nav = styled('div')`
   `}
   a {
     font-weight: 300;
-    color: white;
+    color: #fdbc04;
   }
 `
 
@@ -106,7 +106,7 @@ const Announcement = styled('div')`
   padding: 0 10px;
   border-bottom: #f3ba2f solid 3px;
   h3 {
-    color: white;
+    color: #fdbc04;
     font-weight: 400;
     text-align: center;
     padding: 0 20px;
@@ -114,10 +114,10 @@ const Announcement = styled('div')`
   }
   p {
     text-align: center;
-    color: white;
+    color: #fdbc04;
   }
   a {
-    color: white;
+    color: #fdbc04;
     text-decoration: none;
   }
 `
@@ -149,14 +149,14 @@ const SearchContainer = styled('div')`
     min-width: 60%;
   `}
   > h2 {
-    color: white;
+    color: #fdbc04;
     font-size: 38px;
     font-weight: 100;
     margin-bottom: 10px;
   }
 
   > h3 {
-    color: white;
+    color: #fdbc04;
     font-weight: 100;
     font-size: 24px;
     margin-top: 0;
