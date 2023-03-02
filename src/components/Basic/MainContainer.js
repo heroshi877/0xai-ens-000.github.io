@@ -2,9 +2,9 @@ import styled from '@emotion/styled/macro'
 import mq from 'mediaQuery'
 
 const MainContainer = styled('div')`
-  background: white;
+  background: #5a5a5a;
   box-shadow: 3px 4px 6px 0 rgba(229, 236, 241, 0.3);
-  border-radius: 0;
+  border-radius: 20px;
   margin-bottom: 60px;
   position: relative;
   overflow: hidden;
