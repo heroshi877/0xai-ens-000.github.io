@@ -241,7 +241,7 @@
     }
   },
   "search": {
-    "button": "Check Availability",
+    "button": "Search",
     "placeholder": "Search names or addresses"
   },
   "searchErrors": {
