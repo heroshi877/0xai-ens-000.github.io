@@ -20,11 +20,11 @@ const TabLink = styled(Link)`
     color: ${({ active }) => (active ? 'white' : '#D2D2D2')};
   }
   &:first-child {
-    border-radius: 4px 0 0 4px;
+    border-radius: 20px 0 0 20px;
   }
 
   &:last-child {
-    border-radius: 0 4px 4px 0;
+    border-radius: 0 20px 20px 0;
   }
 `
 
