@@ -19,7 +19,6 @@ import { gql } from '@apollo/client'
 import {
   MainPageBannerContainer,
   DAOBannerContent
-} from '../components/Banner/DAOBanner'
 
 const HeroTop = styled('div')`
   display: grid;
@@ -47,7 +46,7 @@ const Name = styled('span')`
 `
 
 const NetworkStatus = styled('div')`
-  color: white;
+  color: #fdbc0;
   font-weight: 200;
   text-transform: capitalize;
   display: none;
