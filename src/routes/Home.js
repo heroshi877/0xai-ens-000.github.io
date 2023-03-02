@@ -80,7 +80,7 @@ const Nav = styled('div')`
   `}
   a {
     font-weight: 300;
-    color: white;
+    color: #fdbc04;
   }
 `
 
@@ -117,7 +117,7 @@ const Announcement = styled('div')`
     color: #fdbc04;
   }
   a {
-    color: white;
+    color: #fdbc04;
     text-decoration: none;
   }
 `
