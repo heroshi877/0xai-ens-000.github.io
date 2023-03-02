@@ -41,11 +41,11 @@ const Container = styled.div`
       }
     }};
 
-    width: 4px;
-    height: 100%;
+    width: 8px;;
+    height: 50%;
     position: absolute;
     left: 0;
-    top: 0;
+    top: 20px;
     z-index: 10;
   }
 
