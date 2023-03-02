@@ -167,6 +167,7 @@ const Search = styled(SearchDefault)`
   min-width: 90%;
   ${mq.medium`
     min-width: 780px;
+    height: 60px;
   `}
 
   input {
