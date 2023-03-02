@@ -10,7 +10,7 @@ const MainContainer = styled('div')`
   overflow: hidden;
 
   ${mq.small`
-    border-radius: 6px;
+    border-radius: 20px;
   `}
 
   &:before {
