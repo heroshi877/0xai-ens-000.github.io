@@ -17,7 +17,7 @@ const HeartContainer = styled('svg')`
   vertical-align: middle;
   path {
     fill: ${({ active }) => (active ? '#000000' : 'none')};
-    stroke: ${({ active }) => (active ? '#000000' : '000000')};
+    stroke: ${({ active }) => (active ? '#000000' : '#000000')};
     transition: 0.2s ease-in;
   }
 
