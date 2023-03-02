@@ -20,7 +20,7 @@ const LogoContainer = styled(Link)`
   padding-left: 20px;
   align-items: center;
   width: auto;
-  background-color: #000000;
+  background: black;
 
   ${mq.medium`
     width: 200px;
