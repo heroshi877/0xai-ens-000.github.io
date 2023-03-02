@@ -16,7 +16,7 @@ injectGlobal`
     transition: 0.2s;
 
     &:hover {
-      color: #2C46A6;
+      color: #f3ba2f;
     }
 
     &:visited {
