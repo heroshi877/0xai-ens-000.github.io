@@ -99,7 +99,7 @@ const Explanation = styled('div')`
 `
 
 const EditableNotSet = styled('div')`
-  color: #5384fe;
+  color: #f3ba2f;
 `
 
 const ButtonsContainer = styled('div')`
