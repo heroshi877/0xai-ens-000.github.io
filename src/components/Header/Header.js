@@ -48,10 +48,10 @@ const Header = styled('header')`
   top: 0;
   width: 100%;
   z-index: 2;
-  box-shadow: 0 4px 8px 0 rgba(230, 240, 247, 0.8);
+  box-shadow: 0 4px 8px 0 #f3ba2f69;
   height: 50px;
   ${mq.medium`
-    box-shadow: 0 8px 24px 0 rgba(230, 240, 247, 0.8);
+    box-shadow: 0 8px 24px 0 #f3ba2f69;
     height: 60px;
   `}
 `
