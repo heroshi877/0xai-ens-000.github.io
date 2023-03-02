@@ -62,7 +62,7 @@ const NetworkStatus = styled('div')`
     width: 6px;
     height: 6px;
     border-radius: 3px;
-    background: #5284ff;
+    background: #f3ba2f;
     margin-right: 5px;
   }
 `
