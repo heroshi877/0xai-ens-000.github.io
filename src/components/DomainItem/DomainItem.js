@@ -76,7 +76,7 @@ const DomainContainer = styled(Link)`
   font-size: 22px;
   margin-bottom: 4px;
   transition: 0.2s all;
-  border-radius: 6px;
+  border-radius: 100px;
 
   ${mq.medium`
     grid-template-columns: 1fr minmax(150px,350px) 100px 50px 50px;
