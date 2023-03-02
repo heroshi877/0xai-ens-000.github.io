@@ -31,7 +31,7 @@ const TabLink = styled(Link)`
 const TabContainer = styled('div')`
   display: inline-flex;
   justify-content: flex-start;
-  border: 2px solid #dfdfdf;
+  border: 2px solid #f3ba2f;
   border-radius: 20px;
   margin-left: 20px;
   margin-top: 20px;
