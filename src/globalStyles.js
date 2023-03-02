@@ -6,7 +6,7 @@ injectGlobal`
   }
   body {
     font-family: Overpass;
-    background: #F0F6FA;
+    background: black;
     margin: 0;
   }
 
