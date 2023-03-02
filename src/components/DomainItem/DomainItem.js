@@ -50,7 +50,7 @@ const Container = styled.div`
   }
 
   position: relative;
-  background-color: white;
+  background-color: #fdbc04;
   border-radius: 6px;
   box-shadow: 3px 4px 20px 0 rgba(144, 171, 191, 0.42);
   padding: ${p => (p.hasInvalidCharacter ? '20' : '0')}px;
@@ -166,7 +166,7 @@ const WarningImg = styled('img')`
 const WarningContainer = styled.div`
   font-size: 16px;
   display: flex;
-  background-color: white;
+  background-color: #fdbc04;
   margin-top: -10px;
   margin-left: 2px;
   align-items: center;
