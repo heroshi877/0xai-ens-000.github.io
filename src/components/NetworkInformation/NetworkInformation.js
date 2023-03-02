@@ -146,7 +146,7 @@ function NetworkInformation() {
             <NoAccountsModal
               onClick={disconnectProvider}
               buttonText={t('c.disconnect')}
-              colour={'#F5A623'}
+              colour={'#000000'}
             />
           )}
         </AccountContainer>
@@ -160,7 +160,7 @@ function NetworkInformation() {
           </NetworkStatus>
           <NoAccountsModal
             onClick={connectProvider}
-            colour={'#F5A623'}
+            colour={'#000000'}
             buttonText={t('c.connect')}
           />
         </AccountContainer>
