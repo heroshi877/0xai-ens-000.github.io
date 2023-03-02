@@ -17,7 +17,7 @@ const LogoSmall = styled.img`
   padding: 10px;
   border-radius: 50%;
   margin: auto;
-  display: block;
+  display: none;
   box-shadow: 0px 4px 26px rgba(0, 0, 0, 0.06);
 
 
@@ -25,12 +25,12 @@ const LogoSmall = styled.img`
 
 
 const Link = styled(`a`)`
-  display: block;
+  display: none;
 `
 
 const ArrowSmall = styled.img`
   margin: auto;
-  display: block;
+  display: none;
   width: 22px;
   color: #b3b3b3;
 `
@@ -51,7 +51,7 @@ const BannerContent = styled(`div`)`
 `
 
 const BannerContentWrapper = styled('div')`
-  display: flex;
+  display: none;
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-around;
@@ -67,14 +67,14 @@ export const MainPageBannerContainer = styled(`div`)`
   background: white;
   border-radius: 100px;
   max-width: 90%;
-  display: flex;
+  display: none;
   align-items: center;
   justify-content: flex-start;
   padding: 15px 0;
   
   a {
     flex-grow: 1;
-    display: grid;
+    display: none;
     grid-template-columns: 73px 1fr 50px;
   }
   ${mq.medium`
@@ -89,10 +89,10 @@ export const NonMainPageBannerContainer = styled(`div`)`
   right: 0;
   background: #ffffff;
   border-radius: 14px;
-  display: grid;
+  display: none;
   padding: 0px 0px;
   a {
-    display: grid;
+    display: none;
     grid-template-columns: 73px 1fr 50px;
   }
   ${mq.medium`
