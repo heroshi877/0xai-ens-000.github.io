@@ -66,7 +66,7 @@ const SearchHeader = styled(Search)`
 `
 
 const Logo = styled(DefaultLogo)`
-  background: white;
+  background: black;
   position: relative;
   display: flex;
   width: 100%;
