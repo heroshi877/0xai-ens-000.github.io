@@ -276,3 +276,4 @@ const NameRegisterDataWrapper = props => {
 }
 
 export default NameRegisterDataWrapper
+ 
