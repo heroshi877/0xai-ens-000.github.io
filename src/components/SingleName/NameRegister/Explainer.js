@@ -38,7 +38,7 @@ const Header = styled('div')`
 
     ${mq.medium`
       font-size: 24px;
-      color: #2B2B2B;
+      color: #745600;
       letter-spacing: 0;
     `}
   }
