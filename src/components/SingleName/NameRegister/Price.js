@@ -33,7 +33,7 @@ const Description = styled('div')`
 
 const USD = styled('span')`
   font-size: 22px;
-  color: #adbbcd;
+  color: #f3ba2f;
   margin-left: 20px;
   ${mq.small`
     font-size: 28px;
