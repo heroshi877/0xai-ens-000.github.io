@@ -31,7 +31,7 @@ const Header = styled('div')`
     font-family: Overpass;
     font-weight: 300;
     font-size: 18px;
-    color: #2b2b2b;
+    color: #745600;
     letter-spacing: 0;
     margin: 0;
     margin-bottom: 5px;
