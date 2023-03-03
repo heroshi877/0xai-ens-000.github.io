@@ -42,7 +42,7 @@ const Header = styled('div')`
       letter-spacing: 0;
     `}
   }
-
+  
   p {
     margin: 0;
     font-weight: 400;
