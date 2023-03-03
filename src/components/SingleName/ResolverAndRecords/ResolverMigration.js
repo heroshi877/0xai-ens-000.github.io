@@ -16,7 +16,7 @@ const MigrateItem = styled(DetailsItem)`
 `
 
 const MigrateKey = styled(DetailsKey)`
-  color: #2b2b2b;
+  color: #745600;
 `
 
 const MigrateValue = styled(DetailsValue)`
