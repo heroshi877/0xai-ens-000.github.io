@@ -20,7 +20,7 @@ const Number = styled('div')`
 `
 
 const SVG = styled('svg')`
-  stroke: #ccc;
+  stroke: #f3ba2f;
 
   circle {
     stroke-dasharray: ${offset};
@@ -48,6 +48,7 @@ const Content = styled('div')`
     font-size: 14px;
     font-weight: 400;
     margin-top: 0;
+    color: #745600;
   }
 `
 
