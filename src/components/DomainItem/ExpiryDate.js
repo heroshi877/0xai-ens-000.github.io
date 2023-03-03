@@ -11,7 +11,7 @@ import {
 const ExpiryDateContainer = styled('p')`
   font-size: 18px;
   font-weight: 100;
-  color: ${({ isExpiredSoon }) => (isExpiredSoon ? 'red' : '#adbbcd')};
+  color: ${({ isExpiredSoon }) => (isExpiredSoon ? 'red' : '#f3ba2f')};
 `
 
 const ExpiryDate = ({ expiryDate, domain, name }) => {
