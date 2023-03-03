@@ -63,7 +63,7 @@ const Dropdown = styled(motion.div)`
     justify-content: space-between;
     align-items: center;
     &:hover {
-      color: #2b2b2b;
+      color: #745600;
       cursor: pointer;
       div {
         /* ball */
