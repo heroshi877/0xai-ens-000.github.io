@@ -21,10 +21,10 @@ const Icon = styled('div')`
   font-family: Overpass;
   font-size: 28px;
   font-weight: 100;
-  color: #adbbcd;
+  color: #f3ba2f;
   ${p => p.emphasize && 'background-color: #f3ba2f;'}
-  ${p => (p.emphasize ? 'color: white;' : 'color: #adbbcd;')}
-  ${p => (p.emphasize ? 'border-color: white;' : 'color: #adbbcd;')}
+  ${p => (p.emphasize ? 'color: white;' : 'color: #f3ba2f;')}
+  ${p => (p.emphasize ? 'border-color: white;' : 'color: #f3ba2f;')}
   
   border-radius: 50%;
   border: solid 1px;
