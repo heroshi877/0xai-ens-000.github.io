@@ -88,7 +88,7 @@ function getButtonStyles({ type }) {
 
 function getButtonDefaultStyles(p) {
   return `
-    color: white;
+    color: black;
     background: #f3ba2f;
     padding: 10px 25px;
     border-radius: 25px;
