@@ -11,7 +11,7 @@ const SortContainer = styled('ul')`
 `
 
 const SortButton = styled('li')`
-  color: #adbbcd;
+  color: #f3ba2f;
   font-size: 18px;
   padding: 0 10px 5px;
   border-bottom: 1px #d2d2d2 solid;
