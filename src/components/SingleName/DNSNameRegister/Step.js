@@ -44,7 +44,7 @@ const Content = styled('div')`
   }
   p {
     font-size: 12px;
-    color: #adbbcd;
+    color: #f3ba2f;
     letter-spacing: 0;
   }
 `
