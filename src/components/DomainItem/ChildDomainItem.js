@@ -56,6 +56,7 @@ const DomainLink = styled(Link)`
     margin: 0;
     font-weight: 100;
     font-size: 28px;
+    color: #f3ba2f;
     width: 100%;
     white-space: nowrap;
     overflow: hidden;
