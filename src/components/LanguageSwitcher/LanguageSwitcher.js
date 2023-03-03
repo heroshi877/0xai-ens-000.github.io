@@ -22,7 +22,7 @@ function getLang(lang) {
 }
 
 const ActiveLanguage = styled('div')`
-  color: #adbbcd;
+  color: #f3ba2f;
   text-transform: uppercase;
   display: flex;
   justify-content: center;
@@ -55,7 +55,7 @@ const Dropdown = styled(motion.div)`
   width: 230px;
   z-index: 2;
   li {
-    color: #adbbcd;
+    color: #f3ba2f;
     padding: 20px 30px;
     border-bottom: 1px solid #dfdfdf;
     list-style: none;
