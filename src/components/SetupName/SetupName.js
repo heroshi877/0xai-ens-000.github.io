@@ -51,6 +51,7 @@ const Block = styled('section')`
   h3 {
     font-size: 18px;
     font-weight: 300;
+    color: #f3ba2f;
   }
 
   p {
