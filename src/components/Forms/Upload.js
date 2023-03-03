@@ -6,7 +6,7 @@ const StyledUpload = styled(Upload)`
     p.disabled &&
     `
      g {
-       fill: #ADBBCD;
+       fill: #fdbc03;
      }
   `}
   &:hover {
@@ -23,7 +23,7 @@ const StyledUpload = styled(Upload)`
     &:hover {
       cursor: default;
       g {
-        fill: #ADBBCD;
+        fill: #fdbc03;
       }
     }
   `}
