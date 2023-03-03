@@ -57,7 +57,7 @@ const Value = styled('div')`
   font-family: Overpass;
   font-weight: 100;
   font-size: 22px;
-  color: ${p => (p.invalid ? 'red' : '#2b2b2b')};
+  color: ${p => (p.invalid ? 'red' : '#745600')};
   border-bottom: 1px solid #dbdbdb;
   ${mq.small`
     font-size: 28px;
