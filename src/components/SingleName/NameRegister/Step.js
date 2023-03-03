@@ -41,6 +41,7 @@ const Content = styled('div')`
     font-size: 14px;
     font-weight: 600;
     margin-bottom: 5px;
+    color: #f3ba2f;
   }
 
   p {
