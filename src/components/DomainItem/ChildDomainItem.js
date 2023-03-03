@@ -108,7 +108,7 @@ const WarningContainer = styled.div`
   margin-left: 2px;
   align-items: center;
   justify-content: center;
-  color: black;
+  color: #f3ba2f;
   font-weight: 100;
 
   & a:hover {
