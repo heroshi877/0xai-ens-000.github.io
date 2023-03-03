@@ -14,7 +14,7 @@ const styles = {
     textTransform: 'lowercase',
     fontWeight: '700',
     fontSize: '12px',
-    color: '#2B2B2B',
+    color: '#745600',
     letterSpacing: '0.5px'
   }),
   option: (styles, { data, isDisabled, isFocused, isSelected }) => {
