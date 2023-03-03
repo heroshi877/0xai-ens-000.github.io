@@ -36,7 +36,7 @@ const DomainLink = styled(Link)`
   grid-gap: 10px;
   width: 100%;
   background-color: ${props => (props.warning ? 'hsla(37,91%,55%,0.1)' : '')};
-  color: #2b2b2b;
+  color: #745600;
   font-size: 22px;
   font-weight: 100;
   align-items: center;
