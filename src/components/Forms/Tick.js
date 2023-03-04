@@ -23,7 +23,7 @@ const TickContainerDouble = styled('div')`
 
   border-radius: 3px;
 
-  box-shadow: 0 0 0 2px ${activeColourSwitch}, -5px -5px 0 0 white,
+  box-shadow: 0 0 0 2px ${activeColourSwitch}, -5px -5px 0 0 #fdbc04,
     -5px -5px 0 2px ${activeColourSwitch};
 `
 
