@@ -94,6 +94,7 @@ const AdvancedButton = styled.button`
     flex-shrink: 0;
     display: flex;
     margin: 0;
+    color: #f3ba2f;
 
     ${mq.small`
       align-items: center;
