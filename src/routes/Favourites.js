@@ -44,7 +44,7 @@ const NoDomainsContainer = styled('div')`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #161616;
+  background: black;
   box-shadow: 3px 4px 6px 0 rgba(229, 236, 241, 0.3);
   border-radius: 60px;
   margin-bottom: 40px;
