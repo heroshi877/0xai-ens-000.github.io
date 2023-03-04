@@ -27,6 +27,7 @@ const RecordsHeader = styled('div')`
 const RecordsTitle = styled('h3')`
   font-family: Overpass;
   font-weight: 700;
+  background-color: black;
   font-size: 12px;
   color: #f3ba2f;
   letter-spacing: 0.5px;
