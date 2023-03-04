@@ -21,7 +21,7 @@ export const DetailsItem = styled('div')`
 `
 
 export const DetailsKey = styled('div')`
-  color: ${({ greyed }) => (greyed ? '#CCD4DA' : '745600')};
+  color: #f3ba2f;
   font-size: 14px;
   letter-spacing: 0px;
   font-weight: 600;
