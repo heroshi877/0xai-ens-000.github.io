@@ -34,8 +34,9 @@ const ToggleAddRecord = styled('span')`
   ${p =>
     p.pending &&
     `
-    color: #cccccc;
+    color: #996c00;
     pointer-events: none;
+    background: #000000;
     
     &:hover {
       cursor: initial;
@@ -64,14 +65,14 @@ const RecordsTitle = styled('h3')`
   text-transform: uppercase;
   margin: 0;
   padding: 10px 20px;
-  background: #5e5e5e;
+  background: #000000;
   display: flex;
   align-items: center;
   justify-content: space-between;
 `
 
 const AddRecordContainer = styled('div')`
-  background: #f0f6fa;
+  background: ##5e5e5e;
 `
 
 const AddRecordForm = styled('form')`
@@ -96,6 +97,7 @@ const NewRecordsContainer = styled('div')`
   position: relative;
   padding-top: 20px;
   padding-bottom: 20px;
+  background: #5e5e5e;
   font-size: 21px;
   overflow: hidden;
   ${mq.medium`
