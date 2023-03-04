@@ -56,7 +56,7 @@ const Message = styled('div')`
   font-family: Overpass Mono;
   font-weight: 700;
   font-size: 14px;
-  color: ${p => (p.nameSet ? '#747f8c' : '#f3ba2f')};
+  color: ${p => (p.nameSet ? '#f3ba2f' : '#f3ba2f')};
   letter-spacing: 0;
   display: flex;
   align-items: center;
