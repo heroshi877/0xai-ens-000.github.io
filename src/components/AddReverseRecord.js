@@ -36,7 +36,7 @@ const Warning = styled('div')`
 `
 
 const AddReverseRecordContainer = styled('div')`
-  background: #f0f6fa;
+  background: #000000;
   border: 1px solid #ededed;
   border-radius: 8px;
   margin: 20px 30px 20px;
