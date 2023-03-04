@@ -44,6 +44,7 @@ export const DetailsValue = styled('div')`
   font-weight: 100;
   font-family: Overpass Mono;
   white-space: nowrap;
+  color: #f3ba2f;
   overflow: hidden;
   display: inline-flex;
   text-overflow: ellipsis;
