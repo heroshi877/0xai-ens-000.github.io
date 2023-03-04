@@ -9,9 +9,9 @@ const NoDomainsContainer = styled('div')`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: white;
+  background: black;
   box-shadow: 3px 4px 6px 0 rgba(229, 236, 241, 0.3);
-  border-radius: 6px;
+  border-radius: 40px;
   margin-bottom: 40px;
 
   h2 {
