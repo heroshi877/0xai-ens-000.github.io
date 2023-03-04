@@ -64,6 +64,7 @@ const RecordsTitle = styled('h3')`
   text-transform: uppercase;
   margin: 0;
   padding: 10px 20px;
+  background: #5e5e5e;
   display: flex;
   align-items: center;
   justify-content: space-between;
