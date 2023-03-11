@@ -27,7 +27,7 @@ const BaseContainer = styled('div')`
   .bg-string {
     font-family: Overpass Mono;
     position: relative;
-    color: #f3ba2f;
+    color: #ffffff;
     font-size: 26px;
     font-weight: 300;
     line-height: 1em;
