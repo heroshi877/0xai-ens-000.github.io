@@ -47,7 +47,7 @@ function getButtonStyles({ type }) {
       `
     case 'hollow-primary':
       return `
-        color: #f3ba2f;
+        color: #ffffff;
         background: transparent;
         border: 2px solid #ffffff;
         &:visited {
@@ -55,8 +55,8 @@ function getButtonStyles({ type }) {
         }
         &:hover {
           cursor: pointer;
-          border: 2px solid #f3ba2f;
-          color: #f3ba2f;
+          border: 2px solid #ffffff;
+          color: #ffffff;
         }
       `
     case 'hollow-primary-disabled':
@@ -89,7 +89,7 @@ function getButtonStyles({ type }) {
 function getButtonDefaultStyles(p) {
   return `
     color: black;
-    background: #f3ba2f;
+    background: #ffffff;
     padding: 10px 25px;
     border-radius: 25px;
     font-size: 14px;
