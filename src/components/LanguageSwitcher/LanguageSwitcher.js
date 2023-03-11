@@ -22,7 +22,7 @@ function getLang(lang) {
 }
 
 const ActiveLanguage = styled('div')`
-  color: #000000;
+  color: #ffffff;
   text-transform: uppercase;
   display: flex;
   justify-content: center;
