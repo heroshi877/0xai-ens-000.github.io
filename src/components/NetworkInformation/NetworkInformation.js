@@ -62,13 +62,13 @@ const NetworkStatus = styled('div')`
     width: 6px;
     height: 6px;
     border-radius: 3px;
-    background: #f3ba2f;
+    background: #ffffff;
     margin-right: 5px;
   }
 `
 
 const Account = styled('div')`
-  color: #f3ba2f;
+  color: #0x85632e9112d5ec210f67d8415d78e427a76b51e1;
   font-size: 16px;
   font-weight: 200;
   font-family: Overpass Mono;
