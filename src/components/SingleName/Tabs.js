@@ -7,8 +7,8 @@ import mq from 'mediaQuery'
 
 const TabLink = styled(Link)`
   font-size: 14px;
-  background: ${({ active }) => (active ? '#f3ba2f' : 'transparent')};
-  color: ${({ active }) => (active ? 'black' : '#f3ba2f')};
+  background: ${({ active }) => (active ? '#ffffff' : 'transparent')};
+  color: ${({ active }) => (active ? 'black' : '#ffffff')};
   transform: scale(${({ active }) => (active ? '1.08' : '1')});
   transition: background 0.1s ease-out, transform 0.3s ease-out;
   padding: 10px 20px;
@@ -17,7 +17,7 @@ const TabLink = styled(Link)`
   `}
   &:hover,
   &:visited {
-    color: ${({ active }) => (active ? 'black' : '#f3ba2f')};
+    color: ${({ active }) => (active ? 'black' : '#ffffff')};
   }
   &:first-child {
     border-radius: 20px 0 0 20px;
@@ -31,7 +31,7 @@ const TabLink = styled(Link)`
 const TabContainer = styled('div')`
   display: inline-flex;
   justify-content: flex-start;
-  border: 2px solid #f3ba2f;
+  border: 2px solid #ffffff;
   border-radius: 20px;
   margin-left: 20px;
   margin-top: 20px;
