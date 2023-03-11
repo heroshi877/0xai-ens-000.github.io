@@ -50,7 +50,7 @@ const Container = styled.div`
   }
 
   position: relative;
-  background-color: #fdbc04;
+  background-color: #ffffff;
   border-radius: 100px;
   box-shadow: 3px 4px 20px 0 rgba(144, 171, 191, 0.42);
   padding: ${p => (p.hasInvalidCharacter ? '20' : '0')}px;
@@ -65,8 +65,8 @@ const DomainContainer = styled(Link)`
   background: ${({ percentDone }) =>
     percentDone
       ? `
-  linear-gradient(to right, rgba(128, 255, 128, 0.1) 0%, rgba(82,229,255, 0.1) ${percentDone}%,#fdbc04 ${percentDone}%)`
-      : '#fdbc04'};
+  linear-gradient(to right, rgba(128, 255, 128, 0.1) 0%, rgba(82,229,255, 0.1) ${percentDone}%,#ffffff ${percentDone}%)`
+      : '#ffffff'};
   height: 65px;
   display: grid;
   height: auto;
@@ -167,7 +167,7 @@ const WarningImg = styled('img')`
 const WarningContainer = styled.div`
   font-size: 16px;
   display: flex;
-  background-color: #fdbc04;
+  background-color: #ffffff;
   margin-top: -10px;
   margin-left: 2px;
   align-items: center;
