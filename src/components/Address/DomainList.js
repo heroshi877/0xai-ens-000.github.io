@@ -17,7 +17,7 @@ const NoDomainsContainer = styled('div')`
   margin-right: 15px;
 
   h2 {
-    color: #f3ba2f;
+    color: #ffffff;
     font-weight: 100;
     margin-bottom: 0;
     padding: 0;
