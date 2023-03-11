@@ -21,7 +21,7 @@ const Icon = styled('div')`
   font-family: Overpass;
   font-size: 28px;
   font-weight: 100;
-  color: #ffffff;
+  color: black;
   ${p => p.emphasize && 'background-color: #ffffff;'}
   ${p => (p.emphasize ? 'color: white;' : 'color: #ffffff;')}
   ${p => (p.emphasize ? 'border-color: white;' : 'color: #ffffff;')}
