@@ -64,7 +64,7 @@ const NavLink = styled(Link)`
   justify-content: center;
   font-weight: 200;
   font-size: 22px;
-  color: ${p => (p.active ? '#f3ba2f' : '#C7D3E3')};
+  color: ${p => (p.active ? '#ffffff' : '#C7D3E3')};
   padding: 10px 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 
@@ -80,18 +80,18 @@ const NavLink = styled(Link)`
   span {
     transition: 0.2s;
     margin-left: 15px;
-    color: ${p => (p.active ? '#f3ba2f' : '#C7D3E3')};
+    color: ${p => (p.active ? '#ffffff' : '#C7D3E3')};
   }
 
   &:hover {
     span {
-      color: #f3ba2f;
+      color: #ffffff;
     }
     path {
-      fill: #f3ba2f;
+      fill: #ffffff;
     }
     g {
-      fill: #f3ba2f;
+      fill: #ffffff;
     }
   }
 `
@@ -102,7 +102,7 @@ const ThirdPartyLink = styled('a')`
   justify-content: center;
   font-weight: 200;
   font-size: 22px;
-  color: ${p => (p.active ? '#f3ba2f' : '#C7D3E3')};
+  color: ${p => (p.active ? '#ffffff' : '#C7D3E3')};
   padding: 10px 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 
@@ -118,18 +118,18 @@ const ThirdPartyLink = styled('a')`
   span {
     transition: 0.2s;
     margin-left: 15px;
-    color: ${p => (p.active ? '#f3ba2f' : '#C7D3E3')};
+    color: ${p => (p.active ? '#ffffff' : '#C7D3E3')};
   }
 
   &:hover {
     span {
-      color: #f3ba2f;
+      color: #ffffff;
     }
     path {
-      fill: #f3ba2f;
+      fill: #ffffff;
     }
     g {
-      fill: #f3ba2f;
+      fill: #ffffff;
     }
   }
 `
