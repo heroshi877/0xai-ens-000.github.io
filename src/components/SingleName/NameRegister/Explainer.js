@@ -48,7 +48,7 @@ const Header = styled('div')`
     font-weight: 400;
     font-family: Overpass;
     font-size: 14px;
-    color: #f3ba2f;
+    color: #ffffff;
     letter-spacing: 0;
   }
 `
