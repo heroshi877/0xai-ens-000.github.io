@@ -31,7 +31,7 @@ const RotatingSmallCaret = styled(DefaultRotatingSmallCaret)`
 const H2 = styled('h2')`
   margin: 0;
   margin-left: 10px;
-  color: #f3ba2f;
+  color: #ffffff;
   font-size: 20px;
   font-weight: 300;
 `
@@ -52,7 +52,7 @@ const Block = styled('section')`
   h3 {
     font-size: 18px;
     font-weight: 300;
-    color: #f3ba2f;
+    color: #ffffff;
   }
 
   p {
