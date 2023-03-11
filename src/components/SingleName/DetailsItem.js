@@ -21,7 +21,7 @@ export const DetailsItem = styled('div')`
 `
 
 export const DetailsKey = styled('div')`
-  color: #f3ba2f;
+  color: #ffffff;
   font-size: 14px;
   letter-spacing: 0px;
   font-weight: 600;
@@ -44,7 +44,7 @@ export const DetailsValue = styled('div')`
   font-weight: 100;
   font-family: Overpass Mono;
   white-space: nowrap;
-  color: #f3ba2f;
+  color: #ffffff;
   overflow: hidden;
   display: inline-flex;
   text-overflow: ellipsis;
