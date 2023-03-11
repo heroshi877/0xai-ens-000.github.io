@@ -4,7 +4,7 @@ import styled from '@emotion/styled/macro'
 const offset = 180
 
 const Number = styled('div')`
-  color: ${p => (p.progress === 100 ? '#42E068' : '#f3ba2f')};
+  color: ${p => (p.progress === 100 ? '#42E068' : '#ffffff')};
   font-size: 34px;
   font-weight: 300;
   position: relative;
@@ -20,7 +20,7 @@ const Number = styled('div')`
 `
 
 const SVG = styled('svg')`
-  stroke: #f3ba2f;
+  stroke: #ffffff;
 
   circle {
     stroke-dasharray: ${offset};
@@ -41,7 +41,7 @@ const Content = styled('div')`
     font-size: 14px;
     font-weight: 600;
     margin-bottom: 5px;
-    color: #f3ba2f;
+    color: #ffffff;
   }
 
   p {
@@ -64,7 +64,7 @@ const Step = ({ number, text, title, progress = 100 }) => (
           cx="30"
           cy="30"
           r="28"
-          stroke="#f3ba2f"
+          stroke="#ffffff"
           strokeWidth="2"
           fill="none"
           transform="rotate(-90, 30, 30)"
