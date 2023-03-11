@@ -28,7 +28,7 @@ import Gap from '../components/Utils/Gap'
 import { gql } from '@apollo/client'
 
 const Loading = styled('span')`
-  color: #f3ba2f;
+  color: #ffffff;
 `
 
 const Warning = styled('div')`
@@ -56,7 +56,7 @@ const Message = styled('div')`
   font-family: Overpass Mono;
   font-weight: 700;
   font-size: 14px;
-  color: ${p => (p.nameSet ? '#f3ba2f' : '#f3ba2f')};
+  color: ${p => (p.nameSet ? '#ffffff' : '#ffffff')};
   letter-spacing: 0;
   display: flex;
   align-items: center;
@@ -99,7 +99,7 @@ const Explanation = styled('div')`
 `
 
 const EditableNotSet = styled('div')`
-  color: #f3ba2f;
+  color: #ffffff;
 `
 
 const ButtonsContainer = styled('div')`
