@@ -38,7 +38,7 @@ const Icon = styled('div')`
 
   &:hover {
     border: solid #2500a6 1px;
-    color: #2500a6;
+    color: black;
     cursor: pointer;
   }
 `
