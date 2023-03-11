@@ -39,7 +39,7 @@ const ResolverWrapper = styled('div')`
   ${p =>
     p.needsToBeMigrated
       ? `
-    color: #fdbc03;
+    color: #ffffff;
     font-size: 14px;
     background: hsla(37, 91%, 55%, 0.1);
     padding: 20px;
