@@ -47,7 +47,7 @@ const BreadcrumbsCaontainer = styled('ul')`
   display: flex;
   padding: 1em;
   li {
-    border-right: 1px solid #f3ba2f;
+    border-right: 1px solid #ffffff;
     text-align: center;
     flex: auto;
   }
