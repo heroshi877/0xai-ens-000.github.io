@@ -29,7 +29,7 @@ const RecordsTitle = styled('h3')`
   font-weight: 700;
   background: #000000;
   font-size: 12px;
-  color: #f3ba2f;
+  color: #ffffff;
   letter-spacing: 0.5px;
   text-transform: uppercase;
   margin: 0;
