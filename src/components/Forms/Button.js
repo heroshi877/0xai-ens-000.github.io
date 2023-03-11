@@ -11,8 +11,8 @@ function getButtonStyles({ type }) {
         }
         &:hover {
           cursor: pointer;
-          border: 2px solid #f3ba2f;
-          background: #f3ba2f;
+          border: 2px solid #ffffff;
+          background: #ffffff;
           box-shadow: 0 10px 21px 0 rgba(161, 175, 184, 0.89);
           border-radius: 23px;
         }
@@ -25,7 +25,7 @@ function getButtonStyles({ type }) {
         &:hover {
           cursor: pointer;
           border: 2px solid transparent;
-          background: #f3ba2f;
+          background: #ffffff;
           box-shadow: 0 10px 21px 0 rgba(161, 175, 184, 0.89);
         }
       `
@@ -41,7 +41,7 @@ function getButtonStyles({ type }) {
           color: white;
           cursor: pointer;
           border: 2px solid transparent;
-          background: #f3ba2f;
+          background: #ffffff;
           box-shadow: 0 10px 21px 0 rgba(161, 175, 184, 0.89);
         }
       `
@@ -49,9 +49,9 @@ function getButtonStyles({ type }) {
       return `
         color: #f3ba2f;
         background: transparent;
-        border: 2px solid #f3ba2f;
+        border: 2px solid #ffffff;
         &:visited {
-          color: #f3ba2f;
+          color: #ffffff;
         }
         &:hover {
           cursor: pointer;
@@ -98,7 +98,7 @@ function getButtonDefaultStyles(p) {
     text-transform: capitalize;
     letter-spacing: 1.5px;
     transition: 0.2s all;
-    border: 2px solid #f3ba2f;
+    border: 2px solid #ffffff;
     text-align: center;
 
     &:focus {
