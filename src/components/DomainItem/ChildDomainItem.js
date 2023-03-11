@@ -56,7 +56,7 @@ const DomainLink = styled(Link)`
     margin: 0;
     font-weight: 100;
     font-size: 28px;
-    color: #f3ba2f;
+    color: #ffffff;
     width: 100%;
     white-space: nowrap;
     overflow: hidden;
@@ -77,7 +77,7 @@ const DomainLink = styled(Link)`
       color: #DC2E2E;
     }
     &:hover h3 {
-      color: #f3ba2f;
+      color: #ffffff;
     }
   `}
 
@@ -108,11 +108,11 @@ const WarningContainer = styled.div`
   margin-left: 2px;
   align-items: center;
   justify-content: center;
-  color: #f3ba2f;
+  color: #ffffff;
   font-weight: 100;
 
   & a:hover {
-    color: #f3ba2f;
+    color: #ffffff;
   }
 `
 
