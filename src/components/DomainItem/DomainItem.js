@@ -102,7 +102,7 @@ const RightContainer = styled('div')`
 const DomainName = styled('h2')`
   font-size: 18px;
   font-weight: 100;
-  color: #f3ba2f;
+  color: #ffffff;
 
   ${mq.medium`
     font-size: 28px;
@@ -177,7 +177,7 @@ const WarningContainer = styled.div`
   padding: 10px 0px 10px 20px;
 
   & a:hover {
-    color: #f3ba2f;
+    color: #ffffff;
   }
 `
 
