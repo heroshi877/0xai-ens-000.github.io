@@ -47,7 +47,7 @@ const Name = styled('span')`
 `
 
 const NetworkStatus = styled('div')`
-  color: #fdbc04;
+  color: #ffffff;
   font-weight: 200;
   text-transform: capitalize;
   display: none;
@@ -80,7 +80,7 @@ const Nav = styled('div')`
   `}
   a {
     font-weight: 300;
-    color: #fdbc04;
+    color: #ffffff;
   }
 `
 
@@ -102,11 +102,11 @@ const Announcement = styled('div')`
   display: flex;
   justify-content: center;
   flex-direction: column;
-  background: #f3ba2f;
+  background: #ffffff;
   padding: 0 10px;
-  border-bottom: #f3ba2f solid 3px;
+  border-bottom: #ffffff solid 3px;
   h3 {
-    color: #fdbc04;
+    color: #ffffff;
     font-weight: 400;
     text-align: center;
     padding: 0 20px;
@@ -114,10 +114,10 @@ const Announcement = styled('div')`
   }
   p {
     text-align: center;
-    color: #fdbc04;
+    color: #ffffff;
   }
   a {
-    color: #fdbc04;
+    color: #ffffff;
     text-decoration: none;
   }
 `
@@ -149,14 +149,14 @@ const SearchContainer = styled('div')`
     min-width: 60%;
   `}
   > h2 {
-    color: #fdbc04;
+    color: #ffffff;
     font-size: 38px;
     font-weight: 100;
     margin-bottom: 10px;
   }
 
   > h3 {
-    color: #fdbc04;
+    color: #ffffff;
     font-weight: 100;
     font-size: 24px;
     margin-top: 0;
@@ -216,7 +216,7 @@ const WhatItIs = styled(Section)`
 `
 
 const HowItWorks = styled(Section)`
-  background: #f0f6fa;
+  background: #ffffff;
   padding: 40px 20px 80px;
 `
 
