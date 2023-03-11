@@ -22,7 +22,7 @@ function getLang(lang) {
 }
 
 const ActiveLanguage = styled('div')`
-  color: #f3ba2f;
+  color: #000000;
   text-transform: uppercase;
   display: flex;
   justify-content: center;
@@ -55,7 +55,7 @@ const Dropdown = styled(motion.div)`
   width: 230px;
   z-index: 2;
   li {
-    color: #f3ba2f;
+    color: #000000;
     padding: 20px 30px;
     border-bottom: 1px solid #dfdfdf;
     list-style: none;
@@ -67,7 +67,7 @@ const Dropdown = styled(motion.div)`
       cursor: pointer;
       div {
         /* ball */
-        background: #f3ba2f;
+        background: #000000;
       }
     }
     &:last-child {
@@ -81,11 +81,11 @@ const Ball = styled('div')`
   background: white;
   width: 10px;
   height: 10px;
-  box-shadow: 0 0 0 3px white, 0 0 0 4px #f3ba2f;
+  box-shadow: 0 0 0 3px white, 0 0 0 4px #000000;
   ${p =>
     p.selected &&
     `
-    background: #f3ba2f;
+    background: #000000;
   `}
 `
 
