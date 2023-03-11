@@ -71,7 +71,7 @@ const Description = styled('div')`
   font-family: Overpass;
   font-weight: 300;
   font-size: 14px;
-  color: #fdbc03;
+  color: #ffffff;
   margin-top: 10px;
 `
 
