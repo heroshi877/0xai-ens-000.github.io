@@ -90,7 +90,7 @@ const Explanation = styled('div')`
   font-family: Overpass;
   font-weight: 300;
   font-size: 14px;
-  color: #745600;
+  color: #898989;
   letter-spacing: 0;
   line-height: 25px;
   margin-bottom: 10px;
