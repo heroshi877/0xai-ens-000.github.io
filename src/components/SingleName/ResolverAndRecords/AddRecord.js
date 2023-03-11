@@ -23,7 +23,7 @@ const ToggleAddRecord = styled('span')`
   font-family: Overpass;
   font-weight: bold;
   font-size: 14px;
-  color: #f3ba2f;
+  color: #ffffff;
   letter-spacing: 0.58px;
   text-align: center;
 
@@ -60,7 +60,7 @@ const RecordsTitle = styled('h3')`
   font-family: Overpass;
   font-weight: 700;
   font-size: 12px;
-  color: #f3ba2f;
+  color: #ffffff;
   letter-spacing: 0.5px;
   text-transform: uppercase;
   margin: 0;
@@ -121,7 +121,7 @@ const UploadBtn = styled(Button)`
   flex-direction: row;
   margin-bottom: 5px;
   width: 100%;
-  background: #f3ba2f;
+  background: #ffffff;
   ${mq.small`
     margin-left: 20px;
     margin-bottom: 20px;
