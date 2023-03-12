@@ -24,7 +24,7 @@ const H2 = styled('h2')`
   font-family: Overpass;
   font-weight: 300;
   font-size: 28px;
-  color: #745600;
+  color: ##818181;
   text-align: center;
 `
 
