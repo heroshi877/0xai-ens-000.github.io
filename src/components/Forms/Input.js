@@ -16,7 +16,7 @@ const StyledInput = styled('input')`
   font-family: Overpass Mono;
   font-weight: 300;
   font-size: 14px;
-  color: #745600;
+  color: ##818181;
   letter-spacing: 0;
   padding: 10px 20px;
   &:focus {
