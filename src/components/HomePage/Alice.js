@@ -47,7 +47,7 @@ const BaseContainer = styled('div')`
     text-align: center;
 
     h2 {
-      color: #745600;
+      color: ##818181;
       background: rgba(255, 255, 255, 0.7);
       font-size: 16px;
       font-weight: 500;
@@ -64,7 +64,7 @@ const BaseContainer = styled('div')`
 
     p {
       margin-top: 0;
-      color: #745600;
+      color: ##818181;
       background: rgba(255, 255, 255, 0.7);
       font-weight: 300;
       font-size: 26px;
