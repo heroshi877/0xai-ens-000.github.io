@@ -59,7 +59,7 @@ const Container = styled.div`
 
 const DomainContainer = styled(Link)`
   padding: 20px;
-  color: #745600;
+  color: ##818181;
   overflow: hidden;
   position: relative;
   background: ${({ percentDone }) =>
@@ -83,14 +83,14 @@ const DomainContainer = styled(Link)`
     grid-template-rows: 39px;
   `}
 
-  color: #745600;
+  color: ##818181;
   z-index: 1;
   .label-container {
     display: flex;
   }
 
   &:visited {
-    color: #745600;
+    color: ##818181;
   }
 `
 
@@ -112,9 +112,9 @@ const DomainName = styled('h2')`
     switch (p.state) {
       case 'Yours':
       case 'Owned':
-        return '#745600'
+        return '##818181'
       default:
-        return '#745600'
+        return '##818181'
     }
   }};
 `
