@@ -27,7 +27,7 @@ const NoDomainsContainer = styled('div')`
   }
 
   p {
-    color: #898989;
+    color: black;
     font-size: 18px;
     font-weight: 300;
     margin-top: 20px;
