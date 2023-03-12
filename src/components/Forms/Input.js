@@ -36,12 +36,12 @@ const StyledInput = styled('input')`
   ${p =>
     p.invalid &&
     `  
-    color: #DC2E2E
+    color: #DC2E2E;
   `};
   ${p =>
     p.warning &&
     `  
-    color: #F5A623
+    color: #F5A623;
   `};
 `
 
