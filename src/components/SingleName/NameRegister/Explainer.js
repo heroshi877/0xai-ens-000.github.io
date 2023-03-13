@@ -59,7 +59,7 @@ const NotifyButton = styled(Button)`
 
 const NotifyButtonDisabled = styled('div')`
   color: hsla(0, 0%, 82%, 1);
-`
+` 
 
 const Explainer = ({ step, waitPercentComplete, waitTime }) => {
   const { t } = useTranslation()
