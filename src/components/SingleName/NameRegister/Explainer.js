@@ -31,14 +31,14 @@ const Header = styled('div')`
     font-family: Overpass;
     font-weight: 300;
     font-size: 18px;
-    color: #745600;
+    color: #818181;
     letter-spacing: 0;
     margin: 0;
     margin-bottom: 5px;
 
     ${mq.medium`
       font-size: 24px;
-      color: #745600;
+      color: #818181;
       letter-spacing: 0;
     `}
   }
