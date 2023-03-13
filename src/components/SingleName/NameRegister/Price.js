@@ -16,7 +16,7 @@ const Value = styled('div')`
   font-family: Overpass;
   font-weight: 100;
   font-size: 22px;
-  color: #745600;
+  color: #818181;
   border-bottom: 1px solid #dbdbdb;
   ${mq.small`
     font-size: 28px;
