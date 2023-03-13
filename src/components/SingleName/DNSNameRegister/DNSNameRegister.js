@@ -73,7 +73,7 @@ const NumberContainer = styled('span')`
 const Number = ({ number, currentNumber, text }) => {
   const green = '#42E068'
   const grey = '#D8D8D8'
-  const black = '#745600'
+  const black = '#818181'
   const displayNumber = number < currentNumber ? '✓' : number
   let color
   if (number === currentNumber) {
