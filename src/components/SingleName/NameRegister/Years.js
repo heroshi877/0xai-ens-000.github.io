@@ -50,7 +50,7 @@ const Amount = styled('div')`
   font-family: Overpass;
   font-size: 28px;
   font-weight: 100;
-  color: #745600;
+  color: #818181;
   justify-self: left;
   align-self: center;
 
@@ -59,7 +59,7 @@ const Amount = styled('div')`
     font-family: Overpass;
     font-size: 28px;
     font-weight: 100;
-    color: #745600;
+    color: #818181;
     border: none;
     max-width: 65px;
     outline: 0;
