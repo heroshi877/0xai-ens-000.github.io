@@ -9,7 +9,7 @@ const NotAvailableContainer = styled('div')`
 
 const Message = styled('div')`
   background: #f0f6fa;
-  color: #745600;
+  color: #818181;
   font-size: 20px;
   padding: 20px;
   font-weight: 300;
