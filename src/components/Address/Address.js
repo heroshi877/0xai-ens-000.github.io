@@ -57,7 +57,7 @@ const TopBar = styled(DefaultTopBar)`
 
 const Title = styled(DefaultTitle)`
   white-space: nowrap;
-  color: #ab8e48;
+  color: #8f8f8f;
   overflow: hidden;
   text-overflow: ellipsis;
 `
