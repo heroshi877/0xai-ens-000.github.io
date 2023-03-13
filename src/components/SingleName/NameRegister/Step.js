@@ -48,7 +48,7 @@ const Content = styled('div')`
     font-size: 14px;
     font-weight: 400;
     margin-top: 0;
-    color: #745600;
+    color: #818181;
   }
 `
 
