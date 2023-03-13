@@ -7,7 +7,7 @@ import { withTranslation } from 'react-i18next'
 
 const SmallCaret = styled(DefaultSmallCaret)`
   path {
-    fill: #745600;
+    fill: #818181;
   }
 `
 
