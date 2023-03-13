@@ -39,7 +39,7 @@ const Content = styled('div')`
   div {
     font-weight: 100;
     font-size: 20px;
-    color: #745600;
+    color: #818181;
     letter-spacing: 0;
   }
   p {
