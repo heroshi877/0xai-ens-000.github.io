@@ -6,7 +6,7 @@ const StyledPencil = styled(Pencil)`
     p.disabled &&
     `
      g {
-       fill: #fdbc03;
+       fill: #ffffff;
      }
   `}
   &:hover {
