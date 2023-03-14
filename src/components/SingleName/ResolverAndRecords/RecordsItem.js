@@ -81,6 +81,7 @@ export const RecordsSubKey = styled('div')`
     font-size: 16px;
     max-width: 220px;
     min-width: 180px;
+    color: black;
   `}
 `
 
