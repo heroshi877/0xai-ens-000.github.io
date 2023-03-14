@@ -172,7 +172,7 @@ const ResolverAddressWarning = styled('span')`
 `
 
 const ResolverInfoWarning = styled.div`
-  color: #f5a524;
+  color: white;
 
   display: flex;
   flex-direction: row;
@@ -622,7 +622,7 @@ const Editable = ({
             {keyName === 'Resolver' && !needsToBeMigrated && (
               <ResolverInfoWarning>
                 <DefaultOrangeExclamation />
-                <p style={{ color: '#F5A524' }}>
+                <p style={{ color: 'white' }}>
                   {t('singleName.resolver.info')}
                 </p>
               </ResolverInfoWarning>
