@@ -85,7 +85,7 @@ const AccountContainer = styled('div')`
     transform: translate(-25px, 5px);
     width: 225px;
     background: #5e5e5e;
-    border-radius: 50px;
+    border-radius: 6px;
     &:hover {
       background: white;
       box-shadow: -4px 18px 70px 0 rgba(108, 143, 167, 0.32);
