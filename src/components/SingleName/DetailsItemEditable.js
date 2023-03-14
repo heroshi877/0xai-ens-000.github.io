@@ -60,6 +60,7 @@ const Address = styled('span')`
   display: block;
   align-items: center;
   overflow: hidden;
+  color: white;
   text-overflow: ellipsis;
 `
 
