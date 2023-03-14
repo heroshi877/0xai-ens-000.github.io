@@ -23,7 +23,7 @@ const StyledPencil = styled(Pencil)`
     &:hover {
       cursor: default;
       g {
-        fill: #fdbc03;
+        fill: #ffffff;
       }
     }
   `}
