@@ -23,7 +23,7 @@ const StyledUpload = styled(Upload)`
     &:hover {
       cursor: default;
       g {
-        fill: #fdbc03;
+        fill: #ffffff;
       }
     }
   `}
