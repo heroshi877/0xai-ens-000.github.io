@@ -18,8 +18,8 @@ const RadioContainer = styled('div')`
     margin-right: 10px;
     &:hover {
       cursor: pointer;
-      color: #f3ba2f;
-      border: 2px solid #f3ba2f;
+      color: #ffffff;
+      border: 2px solid #ffffff;
     }
   }
 
@@ -28,8 +28,8 @@ const RadioContainer = styled('div')`
   }
 
   input:checked + label {
-    color: #f3ba2f;
-    border: 2px solid #f3ba2f;
+    color: #ffffff;
+    border: 2px solid #ffffff;
   }
 
   .option {
