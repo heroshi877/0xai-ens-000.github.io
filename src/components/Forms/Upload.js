@@ -6,13 +6,13 @@ const StyledUpload = styled(Upload)`
     p.disabled &&
     `
      g {
-       fill: #fdbc03;
+       fill: #ffffff;
      }
   `}
   &:hover {
     g {
       transition: 0.2s;
-      fill: #f3ba2f;
+      fill: #ffffff;
     }
     cursor: pointer;
   }
