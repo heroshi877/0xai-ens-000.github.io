@@ -201,7 +201,7 @@ export function isShortName(term) {
 export const aboutPageURL = () => {
   const lang = window.localStorage.getItem('language') || ''
 
-  return `https://0xxai.xyz/${lang === 'en' ? '' : lang}`
+  return `https://0xxai.com/${lang === 'en' ? '' : lang}`
 }
 
 export function isRecordEmpty(value) {
