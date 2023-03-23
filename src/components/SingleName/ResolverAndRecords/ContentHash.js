@@ -134,6 +134,7 @@ const LinkContainer = styled('a')`
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
+  color: #ccc;
   svg {
     margin-left: 10px;
     transition: 0.1s;
