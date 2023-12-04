@@ -118,8 +118,8 @@ export function DAOBannerContent() {
       rel="noreferrer"
       href={
         shouldDelegate
-          ? 'https://0xxai.com/'
-          : 'https://0xxai.com/'
+          ? 'https://exensai.com/'
+          : 'https://exensai.com/'
       }
     >
       <LogoSmall $daoGradient={!shouldDelegate} src={ENSIcon} alt="ENS logo" />
